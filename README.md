@@ -4,7 +4,7 @@ InterviewAI is a full-stack platform that helps job seekers prepare for intervie
 
 ## 📸 Live Demo & Screenshots
 
-*(Upload your screenshots to a folder like `screenshots/` in your repository and update the paths below)*
+
 
 ![Interview Strategy Generation Dashboard](./screenshots/demo1.png)
 <br/>
